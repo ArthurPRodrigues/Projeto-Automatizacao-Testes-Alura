@@ -5,8 +5,9 @@ Nesse projeto foram realizados testes de interface nas funcionalidades do plano 
 >
 Necessário para rodar o projeto projeto: 
 <
-´´´
+```
+VScode
 Node app.js
 Cypress
-Mochaewsome
-´´´
+Mochawesome
+```
